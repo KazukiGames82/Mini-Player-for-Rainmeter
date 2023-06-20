@@ -45,10 +45,10 @@ A Mini-Player based of Spotify player
 **Most settings are accessible doing right click in the skin** <- This is the **First Thing**
 
 - **Scalable:** Do **First Thing**, then clic **Edit Variables**, find **[MiniPlayer-Scale]()** and change his value.
-  - The Value can be a decimal number and must be positive, example: "1.5", "2.2", "0.8".
+  - The Value can be a decimal number and must be positive, example: **"1.5", "2.2", "0.8"**.
 
 - **Centered:** Do **First Thing**, then find **MiniPlayer Centering** and select some value.
-  - Value available are a Offset of "5%", "10%", "15%" and "20%".
+  - Value available are a Offset of **"5%", "10%", "15%" and "20%"**.
 
 - **Shadow:** Do **First Thing**, then find **Foreground Shadow** and select some value, this just will shade **Text** and **Icons** in the MiniPlayer.
 
