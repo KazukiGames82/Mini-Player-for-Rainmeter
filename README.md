@@ -1,6 +1,7 @@
 # Mini-Player
 
 A Mini-Player based of Spotify player
+
 ![Spotify Player](https://github.com/KazukiGames/Mini-Player/assets/121910047/de452b65-0b06-45fe-a455-b26a4a845cd1)
 ![Mini Player](https://github.com/KazukiGames/Mini-Player/assets/121910047/bde94357-d12c-49ac-9d78-5030ae048946)
 
