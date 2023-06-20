@@ -44,7 +44,16 @@ A Mini-Player based of Spotify player
 ## Settings
 **Most settings are accessible doing right click in the skin** <- This is the **First Thing**
 
-- **Scalable:** Do **First Thing**, then clic **Edit Variables**, find **[MiniPlayer-Scale]()** and change his value. 
+- **Scalable:** Do **First Thing**, then clic **Edit Variables**, find **[MiniPlayer-Scale]()** and change his value.
+  - The Value can be a decimal number and must be positive, example: "1.5", "2.2", "0.8".
+
+- **Centered:** Do **First Thing**, then find **MiniPlayer Centering** and select some value.
+  - Value available are a Offset of "5%", "10%", "15%" and "20%".
+
+- **Shadow:** Do **First Thing**, then find **Foreground Shadow** and select some value, this just will shade **Text** and **Icons** in the MiniPlayer.
+
+- **Colors:**  Do **First Thing**, then clic **Edit Variables**, find variables who ends with **-Color** and change his RGB value, but if you want **customize everthing element** in MiniPlayer change the value of this variables.
+![More Colors](https://github.com/KazukiGames/Mini-Player/assets/121910047/8fd21fa0-85de-4249-8a95-a6ecb1886bf2)
 
 ## Credits
 [WebNowPlaying-Redux](https://github.com/keifufu/WebNowPlaying-Redux-Rainmeter) Plugin by [Keifufu](https://github.com/keifufu) and [tjhrulz](https://github.com/tjhrulz)
