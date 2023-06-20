@@ -11,6 +11,8 @@
 ![Other Action](https://github.com/KazukiGames/Mini-Player/assets/121910047/ba993831-8a1f-4df9-82ce-2f538a696ac0)
 
 - **Rating:** Toggles like/neutral/positive rating if current media player allow it.
+  - Left click in Rating icon toggle between neutral / like action.
+  - Right click in Rating icon make dislike action.
 
 ![Rating Action](https://github.com/KazukiGames/Mini-Player/assets/121910047/c7438a4d-2dd0-43d6-96aa-6b51fb9ddaf2)
 
