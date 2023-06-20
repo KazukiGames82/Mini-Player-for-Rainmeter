@@ -11,7 +11,7 @@ A Mini-Player based of Spotify player
 - [Credits](#Credits)
 
 ## Installation
-- This **Mini-Player** is not part of Spotify/Spicetify, so you will have to download [Rainmeter](https://www.rainmeter.net/) and then download the [Mini-Player](https://github.com/KazukiGames/Mini-Player/releases/tag/Release)
+- This **Mini-Player** is not part of Spotify/Spicetify, so you will have to download [Rainmeter](https://www.rainmeter.net/) and then download the [Mini-Player.rmskin](https://github.com/KazukiGames/Mini-Player/releases/tag/Release).
 - 
   
 ## Features
