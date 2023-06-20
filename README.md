@@ -6,5 +6,6 @@ A Mini-Player for Rainmeter support Spotify andother player that support WebNowP
 - **Shuffle:** Toggles shuffle if current media player allow it.
 - **Repeat:** This depends on what kind of repeat modes the site support and what order they're in.
 - **Rating:** Toggles like/neutral/positive rating if current media player allow it.
+- 
 ![Other Action](https://github.com/KazukiGames/Mini-Player/assets/121910047/ba993831-8a1f-4df9-82ce-2f538a696ac0)
 ![Rating 1](https://github.com/KazukiGames/Mini-Player/assets/121910047/1bd8c8cf-c8cb-4fc7-b5c1-79f4f36e446c)
