@@ -23,3 +23,6 @@
 - **Volume:** Clicking somewhere on the bar will set the volume of the song/video.
 
 ![Volume Bar](https://github.com/KazukiGames/Mini-Player/assets/121910047/22eb625e-bd40-4fb5-b12c-ee48f42336c5)
+
+# Credits
+[WebNowPlaying](https://github.com/keifufu/WebNowPlaying-Redux-Rainmeter) Plugin by [Keifufu](https://github.com/keifufu) and [tjhrulz](https://github.com/tjhrulz)
