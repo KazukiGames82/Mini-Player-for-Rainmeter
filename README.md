@@ -6,9 +6,9 @@ A Mini-Player based of Spotify player
 ![Mini Player](https://github.com/KazukiGames/Mini-Player/assets/121910047/bde94357-d12c-49ac-9d78-5030ae048946)
 
 ## Table of contents
-- Installation [#Installation] 
--
--
+- [Installation](#Installation)
+- [Features](#Features)
+- [Credits](#Credits)
 
 ## Installation
 
