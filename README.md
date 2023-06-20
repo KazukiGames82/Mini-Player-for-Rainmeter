@@ -48,12 +48,12 @@ A Mini-Player based of Spotify player
 - **Scalable:** Do **First Thing**, then clic **Edit Variables**, find **[MiniPlayer-Scale]()** and change his value.
   - The Value can be a decimal number and must be positive, example: **"1.5", "2.2", "0.8"**.
 
-- **Centered:** Do **First Thing**, then find **MiniPlayer Centering** and select some value.
+- **Centered:** Do **First Thing**, then find **[MiniPlayer Centering]()** section and select some value.
   - Value available are a Offset of **"5%", "10%", "15%" and "20%"**.
 
-- **Shadow:** Do **First Thing**, then find **Foreground Shadow** and select some value, this just will shade **Text** and **Icons** in the MiniPlayer.
+- **Shadow:** Do **First Thing**, then find **[Foreground Shadow]()** section and select some value, this just will shade **Text** and **Icons** in the MiniPlayer.
 
-- **Colors:**  Do **First Thing**, then clic **Edit Variables**, find variables who ends with **-Color** and change his RGB value, but if you want **customize everthing element** in MiniPlayer change the value of this variables.
+- **Colors:**  Do **First Thing**, then clic **Edit Variables**, find variables who ends with **[-Color]()** and change his RGB value, but if you want **customize everthing element** in MiniPlayer change the value of this variables.
 ![More Colors](https://github.com/KazukiGames/Mini-Player/assets/121910047/b45ebb60-71d7-4981-b3d2-4c180fc6f3ab)
 
 ## Credits
