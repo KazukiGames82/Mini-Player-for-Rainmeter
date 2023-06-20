@@ -21,7 +21,7 @@ A Mini-Player based of Spotify player
 ## Features
 - **All Buttons that have any media player:** Play/Pause, Previous, Next, Shuffle, Repeat, Rating.
 
-![Generic Buttons](https://github.com/KazukiGames/Mini-Player/assets/121910047/1c3431a2-ad25-460f-bbfd-980929df1558)
+![Generic Buttons](https://github.com/KazukiGames/Mini-Player/assets/121910047/a3160a07-581b-4792-bb67-daf9d680c4c4)
 
 - **Shuffle:** Toggles shuffle if current media player allow it.
 - **Repeat:** This depends on what kind of repeat modes the site support and what order they're in.
@@ -40,7 +40,7 @@ A Mini-Player based of Spotify player
 
 - **Volume:** Clicking somewhere on the bar will set the volume of the song/video.
 
-![Volume Bar](https://github.com/KazukiGames/Mini-Player/assets/121910047/22eb625e-bd40-4fb5-b12c-ee48f42336c5)
+![Volume Bar](https://github.com/KazukiGames/Mini-Player/assets/121910047/8b64c12b-de2e-47e7-a6bf-90f3a3e99912)
 
 ## Settings
 **Most settings are accessible doing right click in the skin** <- This is the **First Thing**
@@ -54,7 +54,7 @@ A Mini-Player based of Spotify player
 - **Shadow:** Do **First Thing**, then find **Foreground Shadow** and select some value, this just will shade **Text** and **Icons** in the MiniPlayer.
 
 - **Colors:**  Do **First Thing**, then clic **Edit Variables**, find variables who ends with **-Color** and change his RGB value, but if you want **customize everthing element** in MiniPlayer change the value of this variables.
-![More Colors](https://github.com/KazukiGames/Mini-Player/assets/121910047/8fd21fa0-85de-4249-8a95-a6ecb1886bf2)
+![More Colors](https://github.com/KazukiGames/Mini-Player/assets/121910047/b45ebb60-71d7-4981-b3d2-4c180fc6f3ab)
 
 ## Credits
 [WebNowPlaying-Redux](https://github.com/keifufu/WebNowPlaying-Redux-Rainmeter) Plugin by [Keifufu](https://github.com/keifufu) and [tjhrulz](https://github.com/tjhrulz)
