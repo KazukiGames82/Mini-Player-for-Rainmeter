@@ -1,4 +1,4 @@
-# Mini-Player
+# Mini-Player for Rainmeter
 
 A Mini-Player based of Spotify player
 
