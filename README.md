@@ -14,4 +14,8 @@ A Mini-Player for Rainmeter support Spotify andother player that support WebNowP
 
 - **Progress:** Clicking somewhere on the bar will set the progress of the song/video.
 
-![explorer_1sMQWTK9JW](https://github.com/KazukiGames/Mini-Player/assets/121910047/6567a3a3-bd75-4fc4-96bb-e8ebad58be97)
+![Song Bar](https://github.com/KazukiGames/Mini-Player/assets/121910047/6567a3a3-bd75-4fc4-96bb-e8ebad58be97)
+
+- **Volume:** Clicking somewhere on the bar will set the volume of the song/video.
+
+![Volume Bar](https://github.com/KazukiGames/Mini-Player/assets/121910047/22eb625e-bd40-4fb5-b12c-ee48f42336c5)
