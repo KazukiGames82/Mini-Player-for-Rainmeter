@@ -53,6 +53,8 @@ A Mini-Player based of Spotify player
 
 - **Shadow:** Do **First Thing**, then find **[Foreground Shadow]()** section and select some value, this just will shade **Text** and **Icons** in the MiniPlayer.
 
+- **Progress/Volume Bar Width:** Do **First Thing**, then clic **Edit Variables**, find **[ProgressBar-Width]()** or **[VolumeBar-Width]()** and change his value.
+
 - **Colors:**  Do **First Thing**, then clic **Edit Variables**, find variables who ends with **[-Color]()** and change his RGB value, but if you want **customize everthing element** in MiniPlayer change the value of this variables.
 ![More Colors](https://github.com/KazukiGames/Mini-Player/assets/121910047/b45ebb60-71d7-4981-b3d2-4c180fc6f3ab)
 
