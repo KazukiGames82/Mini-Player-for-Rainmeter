@@ -18,9 +18,9 @@ A Mini-Player based of Spotify player
   
 ## Features
 
-**Most settings are accessible doing right click in the skin**
+**Most settings are accessible doing right click in the skin** <- This is the **First Thing**
 
-- **Scalable:**
+- **Scalable:** Do **First Thing**, then clic **Edit Variables**, find **MiniPlayer-Scale** and change his value. 
 
 - **All Buttons that have any media player:** Play/Pause, Previous, Next, Shuffle, Repeat, Rating.
 
