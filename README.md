@@ -17,6 +17,11 @@ A Mini-Player based of Spotify player
 - For **Spotify Desktop App**, you'll need [Spicetify App](https://spicetify.app/).
   
 ## Features
+
+**Most settings are accessible doing right click in the skin**
+
+- **Scalable:**
+
 - **All Buttons that have any media player:** Play/Pause, Previous, Next, Shuffle, Repeat, Rating.
 
 ![Generic Buttons](https://github.com/KazukiGames/Mini-Player/assets/121910047/1c3431a2-ad25-460f-bbfd-980929df1558)
