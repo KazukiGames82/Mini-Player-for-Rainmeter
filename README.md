@@ -8,6 +8,7 @@ A Mini-Player based of Spotify player
 ## Table of contents
 - [Installation](#Installation)
 - [Features](#Features)
+- [Settings](#Settings)
 - [Credits](#Credits)
 
 ## Installation
@@ -17,11 +18,6 @@ A Mini-Player based of Spotify player
 - For **Spotify Desktop App**, you'll need [Spicetify App](https://spicetify.app/).
   
 ## Features
-
-**Most settings are accessible doing right click in the skin** <- This is the **First Thing**
-
-- **Scalable:** Do **First Thing**, then clic **Edit Variables**, find **MiniPlayer-Scale** and change his value. 
-
 - **All Buttons that have any media player:** Play/Pause, Previous, Next, Shuffle, Repeat, Rating.
 
 ![Generic Buttons](https://github.com/KazukiGames/Mini-Player/assets/121910047/1c3431a2-ad25-460f-bbfd-980929df1558)
@@ -44,6 +40,11 @@ A Mini-Player based of Spotify player
 - **Volume:** Clicking somewhere on the bar will set the volume of the song/video.
 
 ![Volume Bar](https://github.com/KazukiGames/Mini-Player/assets/121910047/22eb625e-bd40-4fb5-b12c-ee48f42336c5)
+
+## Settings
+**Most settings are accessible doing right click in the skin** <- This is the **First Thing**
+
+- **Scalable:** Do **First Thing**, then clic **Edit Variables**, find **MiniPlayer-Scale** and change his value. 
 
 ## Credits
 [WebNowPlaying-Redux](https://github.com/keifufu/WebNowPlaying-Redux-Rainmeter) Plugin by [Keifufu](https://github.com/keifufu) and [tjhrulz](https://github.com/tjhrulz)
