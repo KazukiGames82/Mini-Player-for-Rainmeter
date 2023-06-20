@@ -44,7 +44,7 @@ A Mini-Player based of Spotify player
 ## Settings
 **Most settings are accessible doing right click in the skin** <- This is the **First Thing**
 
-- **Scalable:** Do **First Thing**, then clic **Edit Variables**, find **MiniPlayer-Scale** and change his value. 
+- **Scalable:** Do **<First Thing>**, then clic **<Edit Variables>**, find **<MiniPlayer-Scale>** and change his value. 
 
 ## Credits
 [WebNowPlaying-Redux](https://github.com/keifufu/WebNowPlaying-Redux-Rainmeter) Plugin by [Keifufu](https://github.com/keifufu) and [tjhrulz](https://github.com/tjhrulz)
