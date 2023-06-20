@@ -2,6 +2,9 @@
 
 # Features
 - **All Buttons that have any media player:** Play/Pause, Previous, Next, Shuffle, Repeat, Rating.
+
+![Generic Buttons](https://github.com/KazukiGames/Mini-Player/assets/121910047/1c3431a2-ad25-460f-bbfd-980929df1558)
+
 - **Shuffle:** Toggles shuffle if current media player allow it.
 - **Repeat:** This depends on what kind of repeat modes the site support and what order they're in.
 
