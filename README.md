@@ -12,7 +12,7 @@ A Mini-Player based of Spotify player
 
 ## Installation
 - This **Mini-Player** is not part of Spotify/Spicetify, so you will have to download [Rainmeter](https://www.rainmeter.net/) and then download the [Mini-Player.rmskin](https://github.com/KazukiGames/Mini-Player/releases).
-- This **Mini-Player use WebNowPlaying-Redus v1.2.0 by default, you'll able to download a newest version here: [WebNowPlaying-Redux](https://github.com/keifufu/WebNowPlaying-Redux-Rainmeter/releases)
+- This **Mini-Player** use **WebNowPlaying-Redux v1.2.0** by default, you'll able to download a newest version here: [WebNowPlaying-Redux](https://github.com/keifufu/WebNowPlaying-Redux-Rainmeter/releases)
   
 ## Features
 - **All Buttons that have any media player:** Play/Pause, Previous, Next, Shuffle, Repeat, Rating.
