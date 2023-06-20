@@ -1,5 +1,10 @@
 # Mini-Player
 A Mini-Player for Rainmeter support Spotify andother player that support WebNowPlaying | Tested with WebNowPlaying 1.2.0.0"
-![explorer_EXjFLNcZoI](https://github.com/KazukiGames/Mini-Player/assets/121910047/7c9af673-e9b4-45ea-8e5f-407caa69bb93)
-![Rainmeter_FtPK8VvocO](https://github.com/KazukiGames/Mini-Player/assets/121910047/61369832-8333-4418-8f3f-d7867be68905)
-![explorer_a9WPb6eA8e](https://github.com/KazukiGames/Mini-Player/assets/121910047/19e8cfac-41bf-4698-b7f8-f23f823912d1)
+
+# Features
+- **All Buttons that have any media player:** Play/Pause, Previous, Next, Shuffle, Repeat, Rating.
+- **Shuffle:** Toggles shuffle if current media player allow it.
+- **Repeat:** This depends on what kind of repeat modes the site support and what order they're in.
+- **Rating:** Toggles like/neutral/positive rating if current media player allow it.
+![Other Action](https://github.com/KazukiGames/Mini-Player/assets/121910047/ba993831-8a1f-4df9-82ce-2f538a696ac0)
+![Rating 1](https://github.com/KazukiGames/Mini-Player/assets/121910047/1bd8c8cf-c8cb-4fc7-b5c1-79f4f36e446c)
