@@ -1,7 +1,6 @@
 # Mini-Player
 
 A Mini-Player based of Spotify player
----
 
 ## Features
 - **All Buttons that have any media player:** Play/Pause, Previous, Next, Shuffle, Repeat, Rating.
